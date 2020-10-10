@@ -1,7 +1,7 @@
 # Расписание для группы ИП193
 <br>
 <p align="center">
- <a href="https://github.com/LencoDigitexer/ip193/releases/download/v2.1/schedule_ip193_v2.1.apk" download>
+ <a href="https://github.com/LencoDigitexer/ip193/releases/download/v2.2/schedule_ip193_v2.2.apk" download>
 <img src="http://nbrienvis.nic.in/WriteReadData/UserFiles/app_download(1).gif">
 </a> </p>
 
