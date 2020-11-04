@@ -6,7 +6,7 @@
 </a> </p>
 
 <p align="center">
-  <img src="https://github.com/lencodigitexer/ip193/blob/master/demo.gif?raw=true"/>
+  <img src="https://github.com/DinkiGOnki/ip193/blob/master/demo.gif?raw=true"/>
 </p>
 
 
